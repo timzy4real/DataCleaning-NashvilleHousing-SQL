@@ -1,3 +1,5 @@
+```SLQ
+
 --All Records 
 SELECT *
 FROM Nashville_Housing
